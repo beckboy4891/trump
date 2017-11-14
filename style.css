@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+	color:red;
+	text-align: center;
+	font-size: 75px;
+}
+h1{
+	font-size: 75px;
+}
+.img-valign{
+	vertical-align:middle;
+	margin-bottom: 0.75em;
+}
+.text1{
+	font-size: 20px;
+	 vertical-align: middle;
+}
